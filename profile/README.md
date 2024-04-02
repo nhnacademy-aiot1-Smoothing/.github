@@ -33,7 +33,7 @@
     <img src="https://github.com/nhnacademy-aiot1-Smoothing/.github/blob/main/images/logo.jpeg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Team-Smoothing👻😎🫥🤔</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
