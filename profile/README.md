@@ -26,7 +26,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
+    ![Test Image 4](https://github.com/nhnacademy-aiot1-Smoothing/.github/blob/main/images/logo.jpeg)
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
