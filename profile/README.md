@@ -32,7 +32,7 @@
 <div align="center">
   <a href="https://github.com/nhnacademy-aiot1-Smoothing/.github/blob/main/images/logo.jpeg">
     ![Test Image 4](https://github.com/nhnacademy-aiot1-Smoothing/.github/blob/main/images/logo.jpeg)
-    <img src="relative/path/in/repository/images/logo.jpeg" alt="Logo" width="80" height="80">
+    <img src="https://github.com/nhnacademy-aiot1-Smoothing/.github/blob/main/images/logo.jpeg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
