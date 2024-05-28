@@ -18,12 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 <!-- PROJECT LOGO -->
@@ -35,8 +30,9 @@
 
   <h3 align="center">Team-Smoothing👻😎🫥🤔</h3>
 
+
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Aiot-4
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -48,6 +44,23 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
+
+<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-ai">🤖Ai-Service</a></h1>
+<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-rule-engine">💻Rule-Engine-Service</a></h1>
+<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-front">🖥️Front-Service</a></h1>
+<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-sensor-data">⚡️Sensor-Data-Service</a></h1>
+<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-user">🙁User-Service</a></h1>
+<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-gateway">📟Gateway-Service</a></h1>
+<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-device">📱Device-Service</a></h1>
+<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-actuator">🔘Actuator-Service</a></h1>
+<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-auth">🪪Auth-Service</a></h1>
+<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-batch">🕐Batch-Service</a></h1>
+<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-messenger">✉️Mail-Service</a></h1>
+<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-eureka">🔎Eureka-Service</a></h1>
+<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-common">🐫Common-Service</a></h1>
+<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing_modeling">🤖Ai-Modeling</a></h1>
+<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/DocumentArchive">📃Document-Archive</a></h1>
+<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/DevelopReport">📃DevelopReport</a></h1>
 
 
 
