@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/nhnacademy-aiot1-Smoothing/.github/blob/main/images/logo.jpeg">
-    <img src="https://github.com/nhnacademy-aiot1-Smoothing/.github/blob/main/images/logo.jpeg" alt="Logo" width="800" height="800" onclick="alert()">
+    <img src="https://github.com/nhnacademy-aiot1-Smoothing/.github/blob/main/images/logo.jpeg" alt="Logo" width="400" height="400" onclick="alert()">
   </a>
 
   <h1 align="center">Team-Smoothing👻😎🫥🤔</h1>
