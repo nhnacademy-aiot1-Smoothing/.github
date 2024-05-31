@@ -44,7 +44,39 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
+## 기술 스택
+이 프로젝트에서 사용된 주요 기술 스택은 다음과 같습니다:
 
+### 프론트엔드
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 백엔드
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+- ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 개발 도구
+- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![ERDCloud](https://img.shields.io/badge/ERDCloud-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+- ![NHN Cloud](https://img.shields.io/badge/NHN_Cloud-00A9E0?style=for-the-badge&logo=nhn&logoColor=white)
+- ![Dooray!](https://img.shields.io/badge/Dooray-00A9E0?style=for-the-badge&logo=nhn&logoColor=white)
+- ![Milesight](https://img.shields.io/badge/Milesight-1E88E5?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+### 메시징 및 데이터 전송
+- ![LoRa](https://img.shields.io/badge/LoRa-43B02A?style=for-the-badge&logo=lora&logoColor=white)
+- ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+### 기타 도구
+- ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 <h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-ai">🤖Ai-Service</a></h1>
 <h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-rule-engine">💻Rule-Engine-Service</a></h1>
 <h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-front">🖥️Front-Service</a></h1>
