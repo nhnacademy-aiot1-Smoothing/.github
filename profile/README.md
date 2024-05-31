@@ -44,8 +44,8 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
+
 ## 기술 스택
-이 프로젝트에서 사용된 주요 기술 스택은 다음과 같습니다:
 
 ### 프론트엔드
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
