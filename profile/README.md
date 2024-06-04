@@ -12,8 +12,7 @@ NHN Academy AIoT 1기<br>
 <br>
 <br>
 
-###  - 기술 스택 -
-##
+## <div align=center>📚 기술 스택 </div>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
