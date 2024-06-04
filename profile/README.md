@@ -47,22 +47,3 @@ NHN Academy AIoT 1기<br>
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 하지현 | 김재혁 | 우혜승 | 신민석 | 배범익 | 김지윤 | 박영준 |
 | [GitHub]() | [GitHub]() | [GitHub]() | [GitHub]() | [GitHub]() | [GitHub]() | [GitHub]() |
-
-
-
-<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-ai">🤖Ai-Service</a></h1>
-<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-rule-engine">💻Rule-Engine-Service</a></h1>
-<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-front">🖥️Front-Service</a></h1>
-<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-sensor-data">⚡️Sensor-Data-Service</a></h1>
-<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-user">🙁User-Service</a></h1>
-<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-gateway">📟Gateway-Service</a></h1>
-<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-device">📱Device-Service</a></h1>
-<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-actuator">🔘Actuator-Service</a></h1>
-<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-auth">🪪Auth-Service</a></h1>
-<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-batch">🕐Batch-Service</a></h1>
-<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-messenger">✉️Mail-Service</a></h1>
-<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-eureka">🔎Eureka-Service</a></h1>
-<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing-common">🐫Common-Service</a></h1>
-<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/smoothing_modeling">🤖Ai-Modeling</a></h1>
-<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/DocumentArchive">📃Document-Archive</a></h1>
-<h1><a href="https://github.com/nhnacademy-aiot1-Smoothing/DevelopReport">📃DevelopReport</a></h1>
