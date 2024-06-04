@@ -65,5 +65,14 @@ NHN Academy AIoT 1기<br>
 - `장치 관리` :
 - `회원 관리` :
 
+<br>
+
 ## <div align=center>💻 프로젝트 아키텍처 </div>
 ![아키텍처](https://github.com/nhnacademy-aiot1-Smoothing/.github/assets/140356909/7d1bdf21-85a8-4ad7-96cc-d90158e25026)
+
+<br>
+
+## <div align=center>📤 CI - CD </div>
+![CICD](https://github.com/nhnacademy-aiot1-Smoothing/.github/assets/140356909/d1c1bb2c-37b0-4088-9a15-db710865e860)
+
+<br>
