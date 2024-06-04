@@ -50,11 +50,6 @@ NHN Academy AIoT 1기<br>
 
 ## <div align=center>🗃️ 프로젝트 소개 </div>
 ### ⚡️ 전력 모니터링 관리 솔루션
-대
-충
-설
-명
-!
 
 ### 1. 제공 서비스
 
