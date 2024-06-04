@@ -165,3 +165,9 @@ NHN Academy AIoT 1기<br>
 ![CICD](https://github.com/nhnacademy-aiot1-Smoothing/.github/assets/140356909/d1c1bb2c-37b0-4088-9a15-db710865e860)
 
 <br>
+
+## <div align=center>📐 프론트 설계 </div>
+- https://www.figma.com/file/6ZqbvK9qYhy0j4OVfGizO0/Smoothing?type=design&node-id=0-1&mode=design&t=TCzSaXYmPps9LIj8-0
+
+## <div align=center>📐 개발 명세서 + WBS </div>
+- https://docs.google.com/spreadsheets/d/1aaDxpqLYVeSZnNgx8e-3ZJBiAGD4tr264QIJBLwbnSQ/edit#gid=703934155
