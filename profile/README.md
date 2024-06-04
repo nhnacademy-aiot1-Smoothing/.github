@@ -43,7 +43,7 @@ NHN Academy AIoT 1기<br>
 </div>
 <br>
 
-## <div align=center>👩‍💻 팀 소개</div>
+## <div align=center>🤝 팀 소개</div>
 <img src="https://github.com/nhnacademy-aiot1-Smoothing/.github/assets/140356909/c49a1679-0abb-46a9-a814-dae4d5bf3406" height=130 width=150> <br/> | <img src="https://github.com/nhnacademy-aiot1-Smoothing/.github/assets/140356909/9cc02fd3-86d4-47d7-8358-2f0df817d456" height=130 width=150> <br/> | <img src="https://github.com/nhnacademy-aiot1-Smoothing/.github/assets/140356909/375556e4-8ee0-46c1-9f97-e78f7ea8acb0" height=130 width=150> <br/> | <img src="https://github.com/nhnacademy-aiot1-Smoothing/.github/assets/140356909/16bd2055-55c1-47b9-8f59-66d954356aea" height=130 width=150> <br/> | <img src="https://github.com/nhnacademy-aiot1-Smoothing/.github/assets/140356909/9fa8fb9d-8e58-437f-9ccf-acb63911736f" height=130 width=150> <br/> | <img src="https://github.com/nhnacademy-aiot1-Smoothing/.github/assets/140356909/a8fe51c9-cf32-4edb-8f4b-bb9ccbe44219" height=130 width=150> <br/> | <img src="https://github.com/nhnacademy-aiot1-Smoothing/.github/assets/140356909/35985f18-accc-4da8-acfc-3cb2c40d5c1b" height=130 width=150> <br/> | 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 하지현 | 김재혁 | 우혜승 | 신민석 | 배범익 | 김지윤 | 박영준 |
