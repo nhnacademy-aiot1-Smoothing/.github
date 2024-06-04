@@ -47,5 +47,23 @@ NHN Academy AIoT 1기<br>
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 하지현 | 김재혁 | 우혜승 | 신민석 | 배범익 | 김지윤 | 박영준 |
 | [GitHub]() | [GitHub]() | [GitHub]() | [GitHub]() | [GitHub]() | [GitHub]() | [GitHub]() |
+<br>
 
 ## <div align=center>🗃️ 프로젝트 소개 </div>
+### ⚡️ 전력 모니터링 관리 솔루션
+대
+충
+설
+명
+!
+
+### 1. 제공 서비스
+- `대시 보드` :
+- `  통계  ` :
+- `비교 현황` :
+- `AI  예측` :
+- `장치 관리` :
+- `회원 관리` :
+
+### 2. 프로젝트 아키텍처
+![아키텍처](https://github.com/nhnacademy-aiot1-Smoothing/.github/assets/140356909/7d1bdf21-85a8-4ad7-96cc-d90158e25026)
