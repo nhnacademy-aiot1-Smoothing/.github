@@ -36,7 +36,7 @@ NHN Academy AIoT 1기<br>
 ![Milesight](https://img.shields.io/badge/Milesight-1E88E5?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Node-Red](https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
-</div>
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 <br>
 
 ## <div align=center>🤝 팀 소개</div>
