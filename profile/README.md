@@ -121,3 +121,11 @@
 ## <div align="center">📑 개발 명세서 + WBS</div>
 
 - [Google Sheets](https://docs.google.com/spreadsheets/d/1aaDxpqLYVeSZnNgx8e-3ZJBiAGD4tr264QIJBLwbnSQ/edit#gid=703934155)
+
+---
+
+## <div align="center">🎥 시연 영상</div>
+
+- [YouTuble](https://www.youtube.com/watch?v=Xod92B_Hjyc)
+
+---
