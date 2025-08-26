@@ -124,6 +124,12 @@
 
 ---
 
+## <div align="center">📝 API 명세서 </div>
+
+- [Postman API 문서](https://documenter.getpostman.com/view/21181813/2sA3XPE3kA)
+
+---
+
 ## <div align="center">🎥 시연 영상</div>
 
 - [YouTuble](https://www.youtube.com/watch?v=Xod92B_Hjyc)
