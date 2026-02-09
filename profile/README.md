@@ -1,8 +1,6 @@
 # <div align="center">🌱🍃 스무딩 (Smoothing)</div>
 
-<div align="center">
-  <img src="https://github.com/nhnacademy-aiot1-Smoothing/.github/assets/140356909/69437e68-3e1f-41cb-8efc-169842e3598a" alt="smoothing" />
-</div>
+![smoothing logo](https://github.com/user-attachments/assets/e7713265-c529-4e9e-8727-472cb6235def)
 
 <div align="center">
   NHN Academy AIoT 1기<br>
